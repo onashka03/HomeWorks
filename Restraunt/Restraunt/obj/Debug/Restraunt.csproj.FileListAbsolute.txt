@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Restraunt\Restraunt\bin\Debug\Restraunt.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\bin\Debug\Restraunt.exe
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\bin\Debug\Restraunt.pdb
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.TastyForm1.resources
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.exe
+C:\Users\User\documents\visual studio 2013\Projects\Restraunt\Restraunt\obj\Debug\Restraunt.pdb
