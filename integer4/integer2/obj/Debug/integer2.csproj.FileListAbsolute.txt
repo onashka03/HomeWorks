@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\integer2\integer2\bin\Debug\integer2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\integer2\integer2\bin\Debug\integer2.exe
+c:\users\user\documents\visual studio 2013\Projects\integer2\integer2\bin\Debug\integer2.pdb
+c:\users\user\documents\visual studio 2013\Projects\integer2\integer2\obj\Debug\integer2.exe
+c:\users\user\documents\visual studio 2013\Projects\integer2\integer2\obj\Debug\integer2.pdb
