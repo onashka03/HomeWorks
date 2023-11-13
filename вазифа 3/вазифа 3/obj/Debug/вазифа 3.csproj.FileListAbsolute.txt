@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\bin\Debug\вазифа 3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\obj\Debug\вазифа 3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\bin\Debug\вазифа 3.exe
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\bin\Debug\вазифа 3.pdb
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\obj\Debug\вазифа 3.exe
+c:\users\user\documents\visual studio 2013\Projects\вазифа 3\вазифа 3\obj\Debug\вазифа 3.pdb
