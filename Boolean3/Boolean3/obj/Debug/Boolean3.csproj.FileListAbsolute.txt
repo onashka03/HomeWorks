@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\bin\Debug\Boolean3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\obj\Debug\Boolean3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\bin\Debug\Boolean3.exe
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\bin\Debug\Boolean3.pdb
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\obj\Debug\Boolean3.exe
+c:\users\user\documents\visual studio 2013\Projects\Boolean3\Boolean3\obj\Debug\Boolean3.pdb
