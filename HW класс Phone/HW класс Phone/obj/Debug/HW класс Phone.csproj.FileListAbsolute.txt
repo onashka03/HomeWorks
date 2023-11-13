@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\bin\Debug\HW класс Phone.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\bin\Debug\HW класс Phone.exe
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\bin\Debug\HW класс Phone.pdb
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\obj\Debug\HW класс Phone.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\obj\Debug\HW класс Phone.exe
+c:\users\user\documents\visual studio 2013\Projects\HW класс Phone\HW класс Phone\obj\Debug\HW класс Phone.pdb
