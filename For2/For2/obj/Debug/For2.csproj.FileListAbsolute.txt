@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\bin\Debug\For2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\obj\Debug\For2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\bin\Debug\For2.exe
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\bin\Debug\For2.pdb
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\obj\Debug\For2.exe
+c:\users\user\documents\visual studio 2013\Projects\For2\For2\obj\Debug\For2.pdb
