@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\bin\Debug\Case2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\bin\Debug\Case2.exe
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\bin\Debug\Case2.pdb
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\obj\Debug\Case2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\obj\Debug\Case2.exe
+c:\users\user\documents\visual studio 2013\Projects\Case2\Case2\obj\Debug\Case2.pdb
