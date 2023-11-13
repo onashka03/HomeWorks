@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\bin\Debug\Myclass.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\bin\Debug\Myclass.exe
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\bin\Debug\Myclass.pdb
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\obj\Debug\Myclass.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\obj\Debug\Myclass.exe
+c:\users\user\documents\visual studio 2013\Projects\Myclass\Myclass\obj\Debug\Myclass.pdb
